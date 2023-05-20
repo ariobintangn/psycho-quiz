@@ -2,7 +2,9 @@
 module.exports = {
   content: [
      "./index.html",
-    "./src/App.vue"
+    "./src/App.vue",
+    "./src/views/HomePage.vue",
+    "./src/components/Option.vue",
   ],
   theme: {
     extend: {},
